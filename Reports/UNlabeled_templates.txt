@@ -1,0 +1,68 @@
+1) 2020 11 === 0 . 5 info === 24061 IP address management go 963 : failed to update block ip 24 error update conflict : calico SDN IP address management blocks 10 233 89 24 handle container network interface0 host uat8 deveu sosiv io
+2) listen normally on 907 ens3 fe80 c0ff fea8 14ca udp 123
+3) 1ab8c9553fd0beb7 started
+4) 2020 11 === 0 . 5 info === 24033 IP address management plugin go 253 : auto assigning ip container id handleid container network interface0 workload uat8 deveu sosiv assignargs IP address management
+5) kernel iso 9660 extensions : microsoft joliet level
+6) 2020 11 === 0 . 5 info === 24621 dataplane linux go 490 : Calico CNI SDN deleted device in netns proc 23774 ns net container id
+7) kernel iso 9660 extensions : rrip 1991a
+8) 2020 11 === 0 . 5 info === 24028 k8s go 400 : added mac interface name and active container id to endpoint container id kubernetes node uat8 deveu sosiv endpoint v3
+9) liveness probe for etcd failed failure 2bd2b989ef03251f started
+10) deleting interface 160 ens3 ip 123 interface stats : received 26 sent 26 dropped active time 4607 secs
+11) 2020 11 === 0 . 5 info === 24668 IP address management plugin go 342 : releasing address using workloadid container id handleid container network interface0 workload uat8 deveu sosiv
+12) readiness probe for calico node failed failure 2020 11 === 0 . 5 info === 4604 confd health go 180 : number of node with bgp peering established 43
+13) finished scripts processing
+(*) 14) 2020 11 === 0 . 5 info === 24017 plugin go 247 : Calico CNI SDN found existing endpoint : kubernetes node projectcalico org v3 uat8 deveu sosiv etcdcleaner 1605115200 nightly 30850105 2020 11 0500 est non existent map controller uid : job name etcdcleaner 1605115200 projectcalico org namespace nightly projectcalico org orchestrator k8s projectcalico org serviceaccount sosivio map k8s uat8 deveu sosiv io eth0 kns nightly ksa nightly sosivio calia3932a6aacb container id kubernetes node uat8 deveu sosiv
+15) 2020 11 === 0 . 5 info === 24962 k8s go 540 : releasing ip address es container id
+(*) 16) setting volume ownership for var lib kubelet pods volumes kubernetes io configmap sc dashboard provider and fsgroup set if the volume has lot of files then setting volume ownership could be slow see https : github com kubernetes issues 69699
+17) 2020 11 === 0 . 5 info === 29316 IP address management plugin go 214 : Calico CNI SDN IP address management request count ipv4 ipv6 container id handleid container network interface0 workload uat13 deveu sosiv
+18) 2020 11 === 0 . 5 info === 24962 k8s go 546 : teardown processing complete container id
+19) starting reflector v1 secret 0s from object etcdtest release
+20) stopping
+21) 2020 11 === 0 . 5 info === 24979 IP address management plugin go 333 : released address using handleid container id handleid container network interface0 workload uat8 deveu sosiv
+22) 2020 11 === 0 . 5 info === 29300 k8s go 373 : Calico CNI SDN using ips : ip 32 container id kubernetes node uat13 deveu sosiv
+23) 2020 11 === 0 . 5 info === 29300 k8s go 400 : added mac interface name and active container id to endpoint container id kubernetes node uat13 deveu sosiv endpoint v3
+24) started for type all to reconfigure
+25) 2020 11 === 0 . 5 info === 24668 IP address management plugin go 321 : releasing address using handleid container id handleid container network interface0 workload uat8 deveu sosiv
+26) processing local scripts 
+27) kernel ipvs : creating netns size 2048 id 1623
+28) killing container with 30 second grace period
+29) 2020 11 warning 24986 IP address management go 1366 : cas error for block retry 0 : update conflict : calico SDN IP address management blocks 10 233 89 24 cidr ip 24 handle container network interface0
+30) kernel ipvs : rr : tcp no destination available
+31) kernel 23390 572206 154768 369 967 classifier 
+32) my leader : the chosen one : my hostname : rqlite
+33) started lsb : bring up down networking 
+34) deleting interface 1134 ens3 ip 123 interface stats : received 12 sent 12 dropped active time 355 secs
+35) pod was deleted and then recreated skipping status update old uid new uid
+36) meta data dev mapper centos root isize 512 agcount agsize 1113856 blks
+37) crc finobt spinodes
+38) naming version bsize 4096 ascii ci ftype
+39) sectsz 512 sunit blks lazy count
+40) refreshing cache for provider : credentialprovider defaultdockerconfigprovider
+41) output : nochange : partition is size 60815327 it cannot be grown
+42) rqlite
+43) new size 7423 extents matches existing size 7423 extents
+44) 2020 11 rafthttp : lost the tcp streaming connection with peer 5a5707af2e1226fc stream msgapp v2 reader 
+45) data bsize 4096 blocks 7601152 imaxpct 25
+46) sunit swidth blks
+47) realtime none extsz 4096 blocks rtextents
+48) 2020 11 rafthttp : peer 5a5707af2e1226fc became active
+49) no changes in context skipping 
+50) public key : starting
+51) kernel the kernel killed the running process classifier uid total vm 2288760kb anon rss 611552kb file rss 6608kb shmem rss 0kb
+52) 2020 11 rafthttp : peer 9e50326602199ede became inactive message send to peer failed
+53) 2020 11 rafthttp : lost the tcp streaming connection with peer 9e50326602199ede stream message reader
+54) 2020 11 rafthttp : closed an existing tcp streaming connection with peer 5a5707af2e1226fc stream msgapp v2 writer 
+55) 2020 11 rafthttp : established tcp streaming connection with peer 5a5707af2e1226fc stream msgapp v2 writer
+56) stopping reflector v1 secret 0s from object etcdtest release
+57) level warn ts 2020 11 11t caller clientv3 msg retrying of unary invoker failed target endpoint : client etcdclient 2379 attempt error remote procedure call failed : code timeout deadline exceeded desc expected data failed to arrive in a timely manner and exceeded the deadline set as the timeout causing the operation to eventually fail 
+58) time 2020 11 11t 05 00 level error msg error running exec in container : cannot exec in stopped state : unknown
+59) public key : finished with exit code
+60) kernel 6891 572190 154540 368 967 classifier
+61) 2020 11 === 0 . 5 info === 27347 plugin go 247 : Calico CNI SDN found existing endpoint : kubernetes node projectcalico org v3 uat43 deveu sosiv rqlite sosivio test 30835473 2020 11 0500 est non existent map app rqlite controller revision hash : projectcalico org namespace sosivio test projectcalico org orchestrator k8s projectcalico org serviceaccount sosivio statefulset kubernetes io pod name rqlite map k8s uat43 deveu sosiv io eth0 kns sosivio test ksa calid0388b38366 container id kubernetes node uat43 deveu sosiv
+62) 2020 11 === 0 . 5 info === 22943 k8s go 520 : endpoint was modified before it could be deleted retrying container id endpoint v3
+63) imagegcmanager disk usage on image filesystem is at 85 which is over the high threshold 85 trying to free 1285408358 bytes down to the low threshold 80
+64) stopping reflector v1 secret 0s from object sosivio test nexus2
+65) starting reflector v1 secret 0s from object sosivio test
+(*) 66) 2020 11 === 0 . 5 info === 8181 dataplane linux go 496 : virtual ethernet device does not exist no need to clean up container id ifname eth0
+67) image garbage collection failed multiple times in row : failed to garbage collect required amount of images wanted to free 1329698406 bytes but freed bytes
+(*) 68) 2020 11 etcd server : read only range request key registry pods ingress nginx range end registry pods ingress nginx0 \ with result range response count 41 size 239435 a read query to the etcd server took too long to execute etcd is responding in a slow manner

@@ -1,0 +1,175 @@
+Term	Label	Count
+runtime service failed	ACT	170
+remote procedure call failed	ACT	1022
+network interface failed	ACT	442
+deveu sosiv not found	RSL	10
+error deleting nightly nsqd from network	ACT	5
+pod status updated	ACT	130
+system status running	RSL	2
+failed to stop the container's filesystem	ACT	93
+container network interface failed	ACT	442
+cannot find network namespace	RSL	3
+memory page fault	ACT	2
+out of memory	RSL	6
+pod could not reach running phase	ACT	523
+failed to start container command	ACT	481
+failed container	ACT	249
+authentication credentials could not be found	ACT	4
+pull secret not found	ACT	4
+the image pull may not succeed	RSL	12
+slice kubepods	ACT	91
+slice killed as result of limit of kubepods slice	RSL	2
+swap 0kb inactive	RSL	15
+nginx proxy failed	ACT	18
+cannot communicate with the destination host	ACT	91
+the network is unreachable	RSL	91
+shutting down loopback interface	ACT	1
+ok	RSL	5
+stopped lsb	ACT	1
+bring up down networking	RSL	4
+failed to set net ipv6	ACT	199
+tried to open a file or change to a directory which was not found	RSL	215
+liveness probe for rqlite failed	ACT	10
+failure rqlite	RSL	2
+finished with exit code	ACT	2
+bringing up loopback interface	ACT	1
+could not get instant cpu stats	ACT	1
+cumulative stats decrease	RSL	1
+image is being downloaded to the node	ACT	304
+image is up to date	RSL	43
+io empty dir	RSL	92
+new interface found	ACT	1
+waking up resolver	RSL	1
+readiness probe for rqlite failed	ACT	7
+exceeded the deadline set as the timeout	RSL	357
+found existing endpoint	ACT	367
+non existent map controller	RSL	133
+node is not ready	ACT	8
+felix is not ready	ACT	5
+readiness probe reporting 503	RSL	1
+dataplane linux go 473	ACT	4
+SDN deleting device in netns proc	RSL	279
+readiness probe for node exporter failed	ACT	2
+node is not healthy	ACT	2
+livenessprobe failed	RSL	35
+executing an operation mounting a volume to a pod started	ACT	10
+IP address management go 1298	ACT	31
+releasing all ips with handle	RSL	167
+started kubernetes transient mount for var lib	ACT	33
+setting volume ownership for var lib	ACT	4
+setting volume ownership could be slow	RSL	4
+error updating resource key	ACT	525
+error operation cannot be fulfilled	ACT	523
+the object has been modified please apply your changes to the latest version and try again	RSL	525
+bringing up interface	ACT	1
+IP address management plugin go 331	ACT	2
+asked to release address	ACT	10
+it doesn exist ignoring container	RSL	10
+IP address management plugin go 253	ACT	55
+auto assigning ip	RSL	320
+k8s go 372	ACT	63
+populated endpoint	RSL	99
+failed to read pod ip from plugin docker	ACT	17
+unexpected command	ACT	16
+output device eth0 does not exist	RSL	8
+shutting down interface	ACT	1
+slave tools v7 failed	ACT	2
+an unexpected failure ocurred	ACT	399
+an unknown error description	ACT	399
+authentication failed	RSL	25
+container not running	RSL	28
+no such container	RSL	58
+invalid argument	RSL	2
+physical volume resized or updated	ACT	1
+physical volume not resized	RSL	1
+connection refused	RSL	72
+failed to get container status	ACT	3
+read only range request key registry health	ACT	6
+context inside the process was canceled	ACT	7
+read query to the etcd server took too long to execute	ACT	139
+responding in a slow manner	RSL	139
+server processunaryrpc failed to write status	ACT	4
+connection error	ACT	115
+desc transport is closing	RSL	25
+container start failed in pod	ACT	45
+error downloading container image	ACT	120
+images create returned error	ACT	16
+failed to write	ACT	15
+tcp timeout	RSL	8
+image service failed	ACT	33
+readiness probe for etcd failed	ACT	3
+tcp connection was attempted	ACT	376
+fetch all of the pod's containers status from the kubernetes api for pod failed	ACT	1
+kube apiserver failed	ACT	7
+copy error	ACT	2
+reading from closed fifo	RSL	2
+nsenter : cannot open	RSL	8
+dataplane linux go 496	ACT	2
+virtual ethernet device does not exist	ACT	6
+no need to clean up container	RSL	7
+partial failure issuing cadvisor	ACT	14
+unable to find data in memory cache	RSL	47
+failed to update stats for container	ACT	11
+failed to parse memory usage in bytes read	ACT	3
+no such device continuing to push stats	RSL	9
+timed out waiting for read index response	ACT	2
+node might have slow network	RSL	2
+count size took too long	RSL	11
+read only range request key registry	ACT	185
+server took too long to execute	RSL	139
+the destination host is on a network to which no ip route exists	RSL	144
+network interface failed to teardown pod	ACT	149
+expected data failed to arrive in a timely manner	ACT	357
+exceeded the deadline set as the timeout causing the operation to eventually fail	RSL	357
+pod could not reach running phase skipping	ACT	124
+failed container rqlite pod	RSL	21
+rtnetlink answers	ACT	2
+file exists	RSL	2
+error getting cluster===	ACT	121
+apply your changes to the latest version and try again	RSL	525
+broken pipe	ACT	17
+the remote data source, file or network socket, suddenly closed from the other end	RSL	17
+connection reset by peer	RSL	141
+failed to get container log path	ACT	4
+failed to inspect container	ACT	4
+failed to read	ACT	34
+error updating node status	ACT	32
+error getting node	ACT	12
+request canceled client timeout exceeded while awaiting headers	RSL	17
+fetch all of the pod's containers status from the kubernetes api	ACT	3
+error msg error setting up exec	ACT	1
+container is not running	RSL	4
+error setting up exec	ACT	1
+error killing pod	ACT	51
+container network interface failed to retrieve network namespace path	ACT	5
+status eof	RSL	1
+container image is being downloaded to the node	ACT	304
+image is up to date for docker	RSL	8
+tried to open a file or change to a directory which was not found container	RSL	390
+mounting a volume to a pod	ACT	624
+setup succeeded	RSL	456
+verification started	RSL	430
+too long to execute	RSL	14
+affinity is confirmed	ACT	144
+block has been loaded	RSL	144
+container volume attachment	ACT	430
+non existent map	RSL	282
+started	RSL	149
+failed to update block	ACT	20
+error update conflict	ACT	17
+IP address management blocks	RSL	113
+the container does not run properly and is failing continuously	ACT	231
+kubernetes will delay the next restart of the container	ACT	231
+restarting failed	RSL	231
+error getting cluster information	ACT	44
+retrying of unary invoker failed target endpoint	ACT	305
+task not found	RSL	1
+very short watch	ACT	26
+unexpected watch close	ACT	26
+watch lasted less than second and no items received	RSL	26
+attempting to delete unused images	ACT	1
+eviction manager	ACT	1
+attempting to reclaim ephemeral storage	RSL	1
+cleanup	ACT	1
+failed to delete container	ACT	1
+failed to decrement	ACT	13
